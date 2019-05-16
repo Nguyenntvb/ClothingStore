@@ -1,0 +1,4 @@
+D:\Work\interview\ClothingStore\ClothingStore\obj\Debug\ClothingStore.csprojAssemblyReference.cache
+D:\Work\interview\ClothingStore\ClothingStore\obj\Debug\ClothingStore.csproj.CoreCompileInputs.cache
+D:\Work\interview\ClothingStore\ClothingStore\obj\Debug\ClothingStore.exe
+D:\Work\interview\ClothingStore\ClothingStore\obj\Debug\ClothingStore.pdb
